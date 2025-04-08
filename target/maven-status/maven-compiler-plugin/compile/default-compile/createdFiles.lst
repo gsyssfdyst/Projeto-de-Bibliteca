@@ -1,0 +1,4 @@
+com/example/projetodebiblioteca/Usuario.class
+com/example/exception/GlobalExceptionHandler.class
+com/example/security/SecurityConfig.class
+com/example/projetodebiblioteca/ProjetoDeBibliotecaApplication.class
